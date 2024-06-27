@@ -15,3 +15,18 @@ This task contains the design for a grocery e-commerce website created in Figma.
 You can view the prototype of the design on Figma using the following link:
 [(https://shorturl.at/Zns1K)]
 
+# Task-2: Mobile App On-boarding and User Flow Optimization
+## Overview
+
+This repository contains the design for a skin care products mobile app created in Figma. The design focuses on providing users with an easy-to-navigate interface for browsing, selecting, and managing skin care products.
+
+## Design Features
+
+- **Onboarding Screens:** Introduce the app's features and guide new users through the setup process.
+- **Sign In/Sign Up:** User authentication screens for account creation and login.
+- **Home Screen:** Provides an overview of featured skin care products and categories.
+
+## Figma Design
+
+You can view aprototype of the design on Figma using the following link:
+[(https://shorturl.at/2fa6G)]
