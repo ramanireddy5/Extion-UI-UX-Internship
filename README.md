@@ -1,7 +1,7 @@
 # Task-1: User Interface Redesign for an E-commerce Website
  ## Overview
 
-This repository contains the design for a grocery e-commerce website created in Figma. The design includes four frames, each detailing different aspects of the website's user interface.
+This task contains the design for a grocery e-commerce website created in Figma. The design includes four frames, each detailing different aspects of the website's user interface.
 
 ## Design Features
 
